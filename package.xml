@@ -3,6 +3,8 @@
     <version>39.0</version>
     <types>
         <members>CreateAccountTest</members>
+        <members>CreateLead</members>
+        <members>CreateLeadTest</members>
         <members>CreatingAccount</members>
         <name>ApexClass</name>
     </types>
@@ -289,6 +291,7 @@
         <name>MatchingRules</name>
     </types>
     <types>
+        <members>ALM1</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
