@@ -4,7 +4,7 @@ public class CreateAccountTest
   static testMethod void testInsertAccount() // Creating method
   {
   
-  //This is test class change for the demo
+  //This is test class change for the demo - Landlease
   CreatingAccount ca = new CreatingAccount();
   ca.createAccount('TestclassAcc1');
   

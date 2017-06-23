@@ -43,7 +43,15 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>CF_Account__c</field>
+                <field>CF_StdObject_Account__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>DemoRegionField__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>CF_Lendlease__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
