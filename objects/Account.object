@@ -121,6 +121,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>CF_Lendlease__c</fullName>
+        <description>This is a demo field</description>
+        <externalId>false</externalId>
+        <label>CF_Lendlease</label>
+        <length>40</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>CleanStatus</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
